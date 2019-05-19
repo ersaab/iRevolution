@@ -7,4 +7,5 @@ all information about iphones starting from 2007 to 2017
 used Javascript for various effects
 
 Worked as a Team Lead
+
 Awarded One of best Project of Class [Jan]2018
